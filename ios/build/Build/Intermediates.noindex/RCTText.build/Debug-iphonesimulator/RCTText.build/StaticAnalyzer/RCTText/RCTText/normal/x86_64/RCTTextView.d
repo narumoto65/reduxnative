@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/sera/react/reduxnative/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/sera/react/reduxnative/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sera/react/reduxnative/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sera/react/reduxnative/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/sera/react/reduxnative/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/sera/react/reduxnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sera/react/reduxnative/node_modules/react-native/Libraries/Text/RCTTextTransform.h
